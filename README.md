@@ -1,4 +1,4 @@
-# ChallengeFourFlexGallery
+# ChallengeFiveFlexGallery
 Fifth 30DayJavaScript Challenge
 
 
