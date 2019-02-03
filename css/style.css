@@ -40,6 +40,10 @@ body {
 
 .panels__panel:hover{
   opacity: 1;
+  
+}
+.panels__panel p:hover{
+  cursor: pointer;
 }
 
 .panels__panel--one {
